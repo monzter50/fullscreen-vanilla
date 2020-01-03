@@ -1,0 +1,15 @@
+{
+  "name": "scroll-fullscreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://monzter50.github.io/fullscreen-vanilla",
+  "scripts": {
+     "deploy": "gh-pages -d public" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
